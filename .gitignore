@@ -1,7 +1,6 @@
 __pycache__/
 *.pyc
 .env
-*.db
+users.db
 *.sqlite3
-venv/
-mcp_env/
+*.log
